@@ -25,8 +25,8 @@ Live Demo: [real-estate-roi-calculator.vercel.app](https://your-deployment-link.
 
 - **Framework:** [Next.js](https://nextjs.org/) (App Router)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/) + Dark Mode
-- **Visualization:** [Recharts](https://recharts.org/) *(if using charts)*
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Visualization:** [Recharts](https://recharts.org/)
 
 ---
 
