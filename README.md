@@ -4,7 +4,7 @@ A powerful investment analysis tool built with **Next.js**, **TypeScript**, and 
 
 ![Real Estate ROI Calculator Screenshot](./public/screenshot.png)
 
-Live Demo: [real-estate-roi-calculator.vercel.app](https://your-deployment-link.com)
+Live Demo: [real-estate-roi-calculator.vercel.app](https://real-estate-roi-calculator.vercel.app/)
 
 ---
 
